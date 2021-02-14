@@ -1,8 +1,8 @@
 # Git Practice
-Author: Dhruv Shetty
+# Author: Dhruv Shetty
 
-Article Source: CNN
-Article Link: https://www.cnn.com/2021/02/14/tech/apple-car-history/index.html
+# Article Source: CNN
+# Article Link: https://www.cnn.com/2021/02/14/tech/apple-car-history/index.html
 
 This article is about the probability of Apple entering into the car market with the release of the Apple car. There have been reports of deals made between Apple and Kia, as well as Apple and Hyundai. Apple has also poached top level executives from Porsche, Google's Waymo, and Tesla.
 
